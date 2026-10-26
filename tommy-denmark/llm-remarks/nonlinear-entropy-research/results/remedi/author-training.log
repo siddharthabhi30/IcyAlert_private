@@ -1,0 +1,90 @@
+Epoch 1/30 - Train loss: 2.135 - Validation loss: 2.123
+Train comp0: 2.144, comp1: 0.027, comp2: 0.019
+Val   comp0: 2.142, comp1: 0.026, comp2: 0.007
+Epoch 2/30 - Train loss: 2.111 - Validation loss: 2.091
+Train comp0: 2.144, comp1: 0.051, comp2: 0.019
+Val   comp0: 2.142, comp1: 0.090, comp2: 0.040
+Epoch 3/30 - Train loss: 2.055 - Validation loss: 1.997
+Train comp0: 2.144, comp1: 0.126, comp2: 0.038
+Val   comp0: 2.142, comp1: 0.179, comp2: 0.034
+Epoch 4/30 - Train loss: 1.925 - Validation loss: 1.832
+Train comp0: 2.144, comp1: 0.259, comp2: 0.041
+Val   comp0: 2.142, comp1: 0.351, comp2: 0.041
+Epoch 5/30 - Train loss: 1.754 - Validation loss: 1.659
+Train comp0: 2.144, comp1: 0.491, comp2: 0.101
+Val   comp0: 2.142, comp1: 0.609, comp2: 0.126
+Epoch 6/30 - Train loss: 1.599 - Validation loss: 1.541
+Train comp0: 2.144, comp1: 0.740, comp2: 0.195
+Val   comp0: 2.142, comp1: 0.868, comp2: 0.267
+Epoch 7/30 - Train loss: 1.518 - Validation loss: 1.479
+Train comp0: 2.144, comp1: 0.970, comp2: 0.345
+Val   comp0: 2.142, comp1: 1.059, comp2: 0.396
+Epoch 8/30 - Train loss: 1.471 - Validation loss: 1.460
+Train comp0: 2.144, comp1: 1.138, comp2: 0.465
+Val   comp0: 2.142, comp1: 1.209, comp2: 0.528
+Epoch 9/30 - Train loss: 1.456 - Validation loss: 1.456
+Train comp0: 2.144, comp1: 1.253, comp2: 0.565
+Val   comp0: 2.142, comp1: 1.295, comp2: 0.609
+Epoch 10/30 - Train loss: 1.449 - Validation loss: 1.459
+Train comp0: 2.144, comp1: 1.295, comp2: 0.600
+Val   comp0: 2.142, comp1: 1.287, comp2: 0.605
+Epoch 11/30 - Train loss: 1.428 - Validation loss: 1.437
+Train comp0: 2.144, comp1: 1.349, comp2: 0.634
+Val   comp0: 2.142, comp1: 1.377, comp2: 0.672
+Epoch 12/30 - Train loss: 1.434 - Validation loss: 1.420
+Train comp0: 2.144, comp1: 1.445, comp2: 0.735
+Val   comp0: 2.142, comp1: 1.480, comp2: 0.758
+Epoch 13/30 - Train loss: 1.419 - Validation loss: 1.438
+Train comp0: 2.144, comp1: 1.486, comp2: 0.761
+Val   comp0: 2.142, comp1: 1.499, comp2: 0.795
+Epoch 14/30 - Train loss: 1.423 - Validation loss: 1.414
+Train comp0: 2.144, comp1: 1.497, comp2: 0.776
+Val   comp0: 2.142, comp1: 1.487, comp2: 0.759
+Epoch 15/30 - Train loss: 1.437 - Validation loss: 1.421
+Train comp0: 2.144, comp1: 1.511, comp2: 0.804
+Val   comp0: 2.142, comp1: 1.559, comp2: 0.839
+Epoch 16/30 - Train loss: 1.441 - Validation loss: 1.427
+Train comp0: 2.144, comp1: 1.574, comp2: 0.872
+Val   comp0: 2.142, comp1: 1.585, comp2: 0.871
+Epoch 17/30 - Train loss: 1.399 - Validation loss: 1.452
+Train comp0: 2.144, comp1: 1.609, comp2: 0.864
+Val   comp0: 2.142, comp1: 1.582, comp2: 0.892
+Epoch 18/30 - Train loss: 1.425 - Validation loss: 1.400
+Train comp0: 2.144, comp1: 1.646, comp2: 0.928
+Val   comp0: 2.142, comp1: 1.625, comp2: 0.884
+Epoch 19/30 - Train loss: 1.425 - Validation loss: 1.423
+Train comp0: 2.144, comp1: 1.663, comp2: 0.944
+Val   comp0: 2.142, comp1: 1.699, comp2: 0.980
+Epoch 20/30 - Train loss: 1.425 - Validation loss: 1.419
+Train comp0: 2.144, comp1: 1.696, comp2: 0.977
+Val   comp0: 2.142, comp1: 1.665, comp2: 0.943
+Epoch 21/30 - Train loss: 1.404 - Validation loss: 1.431
+Train comp0: 2.144, comp1: 1.683, comp2: 0.944
+Val   comp0: 2.142, comp1: 1.710, comp2: 0.999
+Epoch 22/30 - Train loss: 1.437 - Validation loss: 1.409
+Train comp0: 2.144, comp1: 1.734, comp2: 1.028
+Val   comp0: 2.142, comp1: 1.719, comp2: 0.986
+Epoch 23/30 - Train loss: 1.435 - Validation loss: 1.427
+Train comp0: 2.144, comp1: 1.735, comp2: 1.027
+Val   comp0: 2.142, comp1: 1.751, comp2: 1.036
+Epoch 24/30 - Train loss: 1.410 - Validation loss: 1.436
+Train comp0: 2.144, comp1: 1.744, comp2: 1.010
+Val   comp0: 2.142, comp1: 1.763, comp2: 1.057
+Epoch 25/30 - Train loss: 1.409 - Validation loss: 1.405
+Train comp0: 2.144, comp1: 1.773, comp2: 1.038
+Val   comp0: 2.142, comp1: 1.761, comp2: 1.025
+Epoch 26/30 - Train loss: 1.425 - Validation loss: 1.410
+Train comp0: 2.144, comp1: 1.734, comp2: 1.016
+Val   comp0: 2.142, comp1: 1.709, comp2: 0.977
+Epoch 27/30 - Train loss: 1.426 - Validation loss: 1.412
+Train comp0: 2.144, comp1: 1.722, comp2: 1.004
+Val   comp0: 2.142, comp1: 1.734, comp2: 1.004
+Epoch 28/30 - Train loss: 1.433 - Validation loss: 1.439
+Train comp0: 2.144, comp1: 1.724, comp2: 1.013
+Val   comp0: 2.142, comp1: 1.691, comp2: 0.988
+Epoch 29/30 - Train loss: 1.420 - Validation loss: 1.428
+Train comp0: 2.144, comp1: 1.699, comp2: 0.975
+Val   comp0: 2.142, comp1: 1.723, comp2: 1.010
+Epoch 30/30 - Train loss: 1.432 - Validation loss: 1.413
+Train comp0: 2.144, comp1: 1.719, comp2: 1.008
+Val   comp0: 2.142, comp1: 1.695, comp2: 0.966

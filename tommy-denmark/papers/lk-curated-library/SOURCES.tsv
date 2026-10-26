@@ -1,0 +1,21 @@
+slug	year	title	doi	pdf_url
+01-liang-kleeman-2005	2005	Information Transfer between Dynamical System Components	10.1103/PhysRevLett.95.244101	https://math.nyu.edu/~kleeman/prl2005.pdf
+02-liang-2014	2014	Unraveling the Cause-Effect Relation between Time Series	10.1103/PhysRevE.90.052150	https://arxiv.org/pdf/1403.6496
+03-liang-2015	2015	Normalizing the Causality between Time Series	10.1103/PhysRevE.92.022126	https://arxiv.org/pdf/1501.03548
+04-liang-2016	2016	Information Flow and Causality as Rigorous Notions ab initio	10.1103/PhysRevE.94.052201	https://arxiv.org/pdf/1503.08389
+05-liang-2021	2021	Normalized Multivariate Time Series Causality Analysis and Causal Graph Reconstruction	10.3390/e23060679	https://arxiv.org/pdf/2104.11360
+06-vannitsem-2019	2019	Testing for Dynamical Dependence: Application to the Surface Mass Balance Over Antarctica	10.1029/2019GL084329	https://orfeo.belnet.be/bitstream/handle/internal/7473/grl-VDG-2019-final.pdf?isAllowed=y&sequence=2
+07-hagan-2019	2019	A Time-Varying Causality Formalism Based on the Liang-Kleeman Information Flow for Analyzing Directed Interactions in Nonstationary Climate Systems	10.1175/JCLI-D-18-0881.1	https://journals.ametsoc.org/downloadpdf/view/journals/clim/32/21/jcli-d-18-0881.1.pdf
+08-zhou-2024	2024	Estimating Time-Dependent Structures in a Multivariate Causality for Land-Atmosphere Interactions	10.1175/JCLI-D-23-0207.1	https://journals.ametsoc.org/downloadpdf/view/journals/clim/37/6/JCLI-D-23-0207.1.pdf
+09-pires-2024	2024	A General Theory to Estimate Information Transfer in Nonlinear Systems	10.1016/j.physd.2023.133988	https://arxiv.org/pdf/2307.10623
+10-vannitsem-pires-docquier-2024	2024	Causal Dependencies and Shannon Entropy Budget: Analysis of a Reduced-Order Atmospheric Model	10.1002/qj.4805	https://arxiv.org/pdf/2404.00749
+11-lien-2025	2025	A Liang-Kleeman Causality Analysis Based on Linear Inverse Modeling	10.1103/5cd4-5cb4	https://arxiv.org/pdf/2409.06797
+12-siddique-2026	2026	Benchmarking Conditioners in Liang-Kleeman Information Flow: Application to Land-Atmosphere Interactions	10.5194/egusphere-2026-267	https://egusphere.copernicus.org/preprints/2026/egusphere-2026-267/egusphere-2026-267.pdf
+13-wang-2020	2020	The Causality from Solar Irradiation to Ocean Heat Content Detected via Multi-Scale Liang-Kleeman Information Flow	10.1038/s41598-020-74331-2	https://www.nature.com/articles/s41598-020-74331-2.pdf
+14-lu-2022	2022	The Dynamic Causality in Sporadic Bursts between CO2 Emission Allowance Prices and Clean Energy Index	10.1007/s11356-022-21316-5	https://www.ncoads.org/upload/202302/02/202302021110574953.pdf
+15-docquier-2022	2022	Causal Links Between Arctic Sea Ice and Its Potential Drivers Based on the Rate of Information Transfer	10.1029/2021GL095892	https://www.ncoads.org/upload/202205/08/202205082115276977.pdf
+16-docquier-2023	2023	The Rate of Information Transfer as a Measure of Ocean-Atmosphere Interactions	10.5194/esd-14-577-2023	https://esd.copernicus.org/articles/14/577/2023/esd-14-577-2023.pdf
+17-docquier-2024-cmip6	2024	Drivers of Summer Arctic Sea-Ice Extent at Interannual Time Scale in CMIP6 Large Ensembles Revealed by Information Flow	10.1038/s41598-024-76056-y	https://www.nature.com/articles/s41598-024-76056-y.pdf
+18-docquier-2024-methods	2024	A Comparison of Two Causal Methods in the Context of Climate Analyses	10.5194/npg-31-115-2024	https://npg.copernicus.org/articles/31/115/2024/npg-31-115-2024.pdf
+19-lv-2025	2025	Causal Links Among Sources of Heat in the Arctic Surface Mixed Layer and Seasonal Sea Ice Melt	10.1029/2025JC022344	https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2025JC022344
+20-wang-2025-localization	2025	Causality-Driven Localization Method for Improving Ensemble-Based Kalman Filters in Strongly Coupled Data Assimilation System	10.3389/fmars.2025.1600634	https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1600634/pdf
